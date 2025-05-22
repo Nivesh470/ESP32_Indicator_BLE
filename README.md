@@ -53,8 +53,7 @@ Service UUID: `12345678-1234-1234-1234-1234567890ab`
 
 ## Author
 
-Developed by: _Your Name_  
-Course: Embedded Software Systems  
+Developed by: Nivesh M S  
 Tools used: Arduino IDE, Simulink, BLE
 
 
